@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
 
 const buttonContainer = document.querySelector("#buttons");
-const ButtonHighlightColor = "yellow";
+const ButtonHighlightColor = "blue";
 
 function buttonHighlight(event)
 {
